@@ -1,0 +1,58 @@
+body {
+    font-family:sans-serif;
+}
+
+a{
+    color: rgb(255, 81, 0);
+    text-decoration-line: none;
+}
+
+a:hover {
+    color: #00AEFF;
+    text-decoration-line: underline;
+}
+header {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid rgba(255, 8, 8, 0.938);
+}
+
+header h1 {
+    font-size: 2em;
+}
+header nav ul li {
+    display: inline;
+}
+
+.clear {
+    clear:both;
+}
+
+#bemuses {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 600px;
+}
+.bemus {
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgb(76, 0, 255);
+}
+
+.bemus img{
+    width: 250px;
+    height: 300px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.bemus h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#aboutme {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 600px;
+}
